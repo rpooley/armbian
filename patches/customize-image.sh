@@ -1,0 +1,1 @@
+cp /tmp/overlay/rk3399-helm-v2a.dtb /boot/dtb/rockchip

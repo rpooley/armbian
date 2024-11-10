@@ -7,4 +7,5 @@ BUILD_MINIMAL=yes \
 KERNAL_CONFIGURE=no \
 RELEASE=bookworm \
 FORCE_CHECK_MD5_PACKAGES=no \
-BOOT_FDT_FILE=rockchip/rk3399-helm-v2a.dtb
+BOOT_FDT_FILE=rockchip/rk3399-helm-v2a.dtb \
+USERPATCHES_PATH=patches
