@@ -7,6 +7,6 @@ KERNEL_TARGET="current,edge"
 KERNEL_TEST_TARGET="current"
 FULL_DESKTOP="yes"
 BOOT_LOGO="desktop"
-BOOT_FDT_FILE="rockchip/rk3399-roc-pc-mezzanine.dtb"
+BOOT_FDT_FILE="rockchip/rk3399-helm-v2a.dtb"
 BOOT_SCENARIO="blobless"
 BOOT_SUPPORT_SPI=yes
