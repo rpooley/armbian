@@ -10,3 +10,4 @@ BOOT_LOGO="desktop"
 BOOT_FDT_FILE="rockchip/rk3399-helm-v2a.dtb"
 BOOT_SCENARIO="blobless"
 BOOT_SUPPORT_SPI=yes
+BOOTFS_TYPE="fat"
